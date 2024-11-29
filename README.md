@@ -1,1 +1,62 @@
 # Backend-Roadmap
+- [] Network
+-   [] HTTP/HTTPS
+-   [] TCP/IP
+-   [] SMTP
+-   [] DNS
+-   [] CDN
+-   [] Firewall & Security
+-   [] API (Application Programming Interface)
+- [] API Protocol
+-   [] REST
+-   [] SOAP
+-   [] GraphQL
+-   [] JSON-RPC
+-   [] Websockets
+- [] API Security
+-   [] HTTPS
+-   [] CORS
+-   [] SSL/TSL
+-   [] CSP
+- [] Authentication
+-   [] JWT
+-   [] O-AUTH
+-   [] Token Auth
+-   [] SAML
+-   [] Open ID
+- [] Database
+-   [] Relational DB
+-     [] MySQL
+-     [] PostgreSQL
+-     [] SQL Server
+-     [] Oracle
+-     [] SQL Lite
+-   [] Non-Relational DB
+-     [] Mongo
+-     [] Apache Cassandra
+-     [] Redis
+-     [] Dynamo DB
+-     [] Couch DB
+- [] Database Performance
+-   [] Caching
+-   [] Indexing
+-   [] Batch Operation
+-   [] Lazy Loading
+-   [] Load Balancer
+-   [] Asynchronous I/O
+-   [] Microservices
+- [] Testing
+-   [] Unit Testing
+-   [] Function Testing
+-   [] Integration Testing
+- [] Deployment
+-   [] Containerization
+-   [] Virtualization
+-   [] Serverless Computing
+-   [] CI/CD
+-   [] AWS
+-   [] GCP
+-   [] Azure
+-   [] Digital Ocean
+-   [] Firebase
+-   [] IBM Cloud
